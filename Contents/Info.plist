@@ -20,10 +20,14 @@
 	<string>Monaco</string>
 	<key>DefaultFontSize</key>
 	<integer>10</integer>
+        <key>DefaultVariant</key>
+        <string>Green and Amber</string>
 	<key>ShowIncomingFonts</key>
 	<false/>
 	<key>DisableCustomBackground</key>
 	<false/>
+        <key>MessageViewVersion</key>
+        <integer>4</integer>
 	<key>ShowsUserIcons</key>
 	<false/>
 </dict>
