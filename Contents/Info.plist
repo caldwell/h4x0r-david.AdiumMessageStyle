@@ -5,13 +5,13 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleGetInfoString</key>
-	<string>h4x0r</string>
+	<string>h4x0r-david</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.adiumx.h4x0r.style</string>
+	<string>com.adiumx.h4x0r-david.style</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>CFBundleName</key>
-	<string>h4x0r</string>
+	<string>h4x0r-david</string>
 	<key>CFBundlePackageType</key>
 	<string>AdIM</string>
 	<key>DefaultBackgroundColor</key>
