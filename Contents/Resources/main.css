@@ -15,7 +15,7 @@ div {
 	overflow: auto;
 }
 
-a { color: #0000ff; }
+a { color: #00aaff; }
 a:link { text-decoration: underline; 	text-shadow:1px 1px 7px #0000ff; }
 a:visited { color: #aa0000; text-decoration: underline; text-shadow:1px 1px 1px #aa0000;  }
 a:hover { text-decoration: none; }
