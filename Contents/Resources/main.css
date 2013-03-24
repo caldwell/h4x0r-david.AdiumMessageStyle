@@ -25,7 +25,6 @@ a:active { text-decoration: none; }
 .incoming, .outgoing 
 {
     font-weight: normal;
-	text-indent: -10px;
 	padding-left: 10px;
 }
 
@@ -59,6 +58,10 @@ a:active { text-decoration: none; }
 	text-shadow:2px 2px 7px #00dd00;
 }
 
+.time, .sender, .message, .contexttime, .contextsender, .contextmessage {
+    display: inline-block;
+    vertical-align: top;
+}
 
 /* ---------  History  --------- */
 .contexttime, .contextsender 
